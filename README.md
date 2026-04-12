@@ -38,13 +38,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/hamzasibous/hamzasibous/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxwb2Rla2Z2dW5lcjNudW05d3VseXAwaGc3ZmlleG9vY2VtY2k5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
-
-###
